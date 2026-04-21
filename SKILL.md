@@ -1,7 +1,11 @@
 ---
 name: dataflow-tutor
 description: >
-  An interactive conceptual tutor that teaches you how a complete data pipeline works using the DATAFLOW framework — Define, Acquire, Tidy, Archive, File, Launch, Observe. Use this skill whenever the user wants to understand WHY each step of a data pipeline exists, how the parts connect, and how to think like a data engineer. This skill uses a real stock ticker and yfinance as the project foundation. All questions are conceptual — focused on understanding, not syntax.
+  Conceptual Socratic tutor for the DATAFLOW framework — Define, Acquire, Tidy, Archive, File, Launch, Observe.
+  Use when the user wants to understand WHY each step of a data pipeline exists, how the parts connect, and how to think like a data engineer — especially reflecting on pipelines Danny has already built (blue-hill-capital, royal-rumble, stock-analyzer).
+  All questions are conceptual — quiz / recall / scenario / teach-back modes. ZERO code is written in this skill.
+  Trigger on: "explain my pipeline", "why does [stage] exist", "walk me through DATAFLOW", "teach me the WHY of my pipeline", "help me understand my blue-hill/royal-rumble data flow".
+  NOT for: building a new pipeline from scratch (use data-pipeline-tutor — that skill has you writing fresh yfinance/sqlite/Tableau code). NOT for: general data-analyst concepts like pandas or SQL (use .tutor inside data-analyst-academy).
 ---
 
 # DATAFLOW Tutor
