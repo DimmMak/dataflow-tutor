@@ -8,6 +8,12 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ---
 
+## 2026-05-16
+
+### `deb2cb2` — cash-out 2026-05-16 09:06 — autonomous backup
+
+**✏️ modified** (2): `CHANGELOG.md`, `README.md`
+
 ## 2026-05-15
 
 ### `d97e0b4` — cash-out 2026-05-15 21:07 — autonomous backup
