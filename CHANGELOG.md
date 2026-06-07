@@ -8,6 +8,12 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ---
 
+## 2026-06-06
+
+### `8392512` — cash-out 2026-06-06 21:12 — autonomous backup
+
+**✏️ modified** (2): `CHANGELOG.md`, `README.md`
+
 ## 2026-06-01
 
 ### `0f74223` — cash-out 2026-06-01 21:11 — autonomous backup
@@ -259,11 +265,3 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 ### `e4ac7fa` — scope: conceptual WHY only, reflect-on-existing, explicit NOT-for boundaries
 
 **✏️ modified** (1): `SKILL.md`
-
-## 2026-04-16
-
-### `28ce521` — Add research doc: Why First-Letter Recall Works
-
-**🆕 added** (2): `references/curriculum.md`, `research/WHY-FIRST-LETTER-RECALL-WORKS.md`
-**✏️ modified** (1): `SKILL.md`
-**🗑️ deleted** (1): `README.md`
