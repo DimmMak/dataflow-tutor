@@ -8,6 +8,12 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ---
 
+## 2026-06-01
+
+### `0f74223` — cash-out 2026-06-01 21:11 — autonomous backup
+
+**✏️ modified** (2): `CHANGELOG.md`, `README.md`
+
 ## 2026-05-28
 
 ### `f9ca670` — cash-out 2026-05-28 21:07 — autonomous backup
@@ -261,9 +267,3 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 **🆕 added** (2): `references/curriculum.md`, `research/WHY-FIRST-LETTER-RECALL-WORKS.md`
 **✏️ modified** (1): `SKILL.md`
 **🗑️ deleted** (1): `README.md`
-
-## 2026-04-13
-
-### `35415b3` — Initial commit - DATAFLOW Tutor skill
-
-**🆕 added** (2): `README.md`, `SKILL.md`
