@@ -10,6 +10,10 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ## 2026-06-06
 
+### `72b3e92` — cash-out 2026-06-06 21:12 — autonomous backup
+
+**✏️ modified** (1): `CHANGELOG.md`
+
 ### `8392512` — cash-out 2026-06-06 21:12 — autonomous backup
 
 **✏️ modified** (2): `CHANGELOG.md`, `README.md`
@@ -259,9 +263,3 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 ### `4fe9dd2` — cash-out 2026-04-23 19:05 — autonomous backup
 
 **🆕 added** (1): `.gitignore`
-
-## 2026-04-21
-
-### `e4ac7fa` — scope: conceptual WHY only, reflect-on-existing, explicit NOT-for boundaries
-
-**✏️ modified** (1): `SKILL.md`
