@@ -10,6 +10,10 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ## 2026-06-06
 
+### `cedd2ba` — cash-out 2026-06-06 21:18 — autonomous backup
+
+**✏️ modified** (1): `CHANGELOG.md`
+
 ### `72b3e92` — cash-out 2026-06-06 21:12 — autonomous backup
 
 **✏️ modified** (1): `CHANGELOG.md`
@@ -257,9 +261,3 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 ### `637fe44` — fix: update vapor reference from data-pipeline-tutor to dataflow-builder
 
 **✏️ modified** (1): `SKILL.md`
-
-## 2026-04-23
-
-### `4fe9dd2` — cash-out 2026-04-23 19:05 — autonomous backup
-
-**🆕 added** (1): `.gitignore`
