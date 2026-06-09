@@ -8,6 +8,12 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ---
 
+## 2026-06-08
+
+### `46baa6a` — cash-out 2026-06-08 11:27 — autonomous backup
+
+**✏️ modified** (2): `CHANGELOG.md`, `README.md`
+
 ## 2026-06-06
 
 ### `cedd2ba` — cash-out 2026-06-06 21:18 — autonomous backup
@@ -255,9 +261,3 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 ### `4d41cf0` — Add FUTURE_UPDATES.md scaffold
 
 **🆕 added** (1): `FUTURE_UPDATES.md`
-
-## 2026-04-29
-
-### `637fe44` — fix: update vapor reference from data-pipeline-tutor to dataflow-builder
-
-**✏️ modified** (1): `SKILL.md`
