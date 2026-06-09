@@ -10,6 +10,10 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ## 2026-06-08
 
+### `23d3d5f` — cash-out 2026-06-08 21:06 — autonomous backup
+
+**✏️ modified** (1): `CHANGELOG.md`
+
 ### `46baa6a` — cash-out 2026-06-08 11:27 — autonomous backup
 
 **✏️ modified** (2): `CHANGELOG.md`, `README.md`
@@ -257,7 +261,3 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 ### `b6f9e98` — cash-out 2026-04-30 23:54 — autonomous backup
 
 **🆕 added** (2): `CHANGELOG.md`, `README.md`
-
-### `4d41cf0` — Add FUTURE_UPDATES.md scaffold
-
-**🆕 added** (1): `FUTURE_UPDATES.md`
