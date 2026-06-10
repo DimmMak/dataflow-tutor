@@ -8,6 +8,12 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 
 ---
 
+## 2026-06-09
+
+### `7ffce77` — cash-out 2026-06-09 09:06 — autonomous backup
+
+**✏️ modified** (2): `CHANGELOG.md`, `README.md`
+
 ## 2026-06-08
 
 ### `23d3d5f` — cash-out 2026-06-08 21:06 — autonomous backup
@@ -255,9 +261,3 @@ Format: reverse-chronological with **per-commit file operations** (added · modi
 ### `684f10d` — cash-out 2026-05-01 00:14 — autonomous backup
 
 **✏️ modified** (2): `CHANGELOG.md`, `README.md`
-
-## 2026-04-30
-
-### `b6f9e98` — cash-out 2026-04-30 23:54 — autonomous backup
-
-**🆕 added** (2): `CHANGELOG.md`, `README.md`
